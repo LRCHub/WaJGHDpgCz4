@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "御してぎょしゃ座",
+  "base_artist": "星見純那(CV:佐藤日向)",
+  "createdAt": "2026-02-27T14:19:33.296106Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "御してぎょしゃ座",
+      "artist": "星見純那(佐藤日向), リュウ・メイファン(竹内夢), 田中ゆゆ子(佐伯伊織), 野々宮ララフィン(富田美憂)",
+      "has_synced": false,
+      "path": "select/pl_01_御してぎょしゃ座_星見純那(佐藤日向),_リュウ・メイファン(竹内夢),_田中ゆゆ子(佐伯伊織),_野々宮ララフィン(富田美憂).txt"
+    }
+  ]
+}
